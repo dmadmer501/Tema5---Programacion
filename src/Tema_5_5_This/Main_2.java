@@ -43,8 +43,8 @@ public class Main_2 {
 		System.out.println("La nueva altura asignada es: " + p.getHeight());
 		System.out.println("La nueva profesion asignada es: " + p.getWork());
         System.out.println("El nuevo salario asignado es: " + p.getSalary());
-		System.out.println("El salario con aumento es: " + p.getSalary() + );
+		System.out.println("El salario con aumento es: " + p.getSalary());
         teclado.close();
-		// queda añadir el aumnetar suldo
+
 	}
 }
